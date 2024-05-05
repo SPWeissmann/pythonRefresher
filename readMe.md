@@ -1,7 +1,7 @@
 # Python Refresher
 
 ## Definitions 
-The term is in **bold** followed by the python specific nomenclature in (parentheses) if applicable. Underneath each definition is a basic code example.
+The term is in **bold** followed by the python specific nomenclature in (parentheses) if applicable. Some definition will have a basic example code.
 
 **Variable** - A nickname or label for an object or a piece of data in Python. 
 
@@ -27,6 +27,5 @@ print( di['Ivysaur'] ) #prints 2
 ```python
 li = [1,2,3] #a list of ints
 for i in li: 
-    j = i + 3
-    print(i,j)
+    print(i)
 
