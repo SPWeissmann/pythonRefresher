@@ -1,5 +1,9 @@
 # Python Refresher
 
+##Code
+[Click here to view some more in depth and helpful code examples](https://colab.research.google.com/drive/1NLDEAkKdm_6KwTFxwYZS1LwQ4411StFz?usp=sharing)
+
+
 ## Definitions 
 The term is in **bold** followed by the python specific nomenclature in (parentheses) if applicable. Some definition will have a basic example code.
 
